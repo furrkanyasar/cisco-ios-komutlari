@@ -1,4 +1,4 @@
-# Cisco CCNA Türkçe Komut Rehberi 🇹🇷
+# Cisco IOS Türkçe Komut Rehberi 🇹🇷
 
 Bu reponun amacı Cisco IOS komutlarını ve açıklamalarını pratik ve gereksiz detaylardan arındırarak tek bir çatı altında toplamaktır.
 
