@@ -10,7 +10,7 @@ Bu dokümanlar;
 - **Eğitim amaçlı** (sınıf içi/online dersler)
 - **Şirket içi eğitim materyali** olarak
 - **Kişisel referans** amaçlı 
-- **Açık kaynak projelerde** (kaynak göstererek)
+- **Açık kaynak projelerde**
 - **Teknik dokümantasyon** destek materyali olarak  ücretsizce kullanılabilir.
 
 
