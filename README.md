@@ -6,7 +6,7 @@ Dökümanlar konuyu sıfırdan öğretmek amacıyla **hazırlanmamıştır**. Ge
 
 Repo düzenli olarak güncellenecektir. 
 
-**ÖNEMLİ**: Belgelerde gözden kaçan hatalar olabilir. Lütfen çalıştıracağınız komutlardan emin olun ve hatalı bilgi bulursanız bana geribildirimde bulunun.
+**ÖNEMLİ**: Belgelerde gözden kaçan hatalar olabilir. Lütfen çalıştıracağınız komutlardan emin olun ve hatalı bilgi bulursanız bana geri bildirimde bulunun.
 
 Bu dokümanlar;
 - **Eğitim amaçlı** (sınıf içi/online dersler)
